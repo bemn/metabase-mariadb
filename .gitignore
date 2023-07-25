@@ -1,0 +1,31 @@
+# Arquivos temporários
+*~
+
+# Arquivos de log
+*.log
+
+# Arquivos compilados para linguagens de programação
+*.class
+*.o
+*.pyc
+
+# Diretórios e arquivos gerados por IDEs e editores de código
+.idea/
+.vscode/
+
+# Arquivos de configuração de sistema
+.DS_Store
+Thumbs.db
+
+# Dependências e bibliotecas geradas automaticamente
+/node_modules/
+/dist/
+/build/
+/out/
+
+# Arquivos de chave, senhas ou informações sensíveis
+secrets.txt
+senha.txt
+chave_privada.pem
+
+.env
