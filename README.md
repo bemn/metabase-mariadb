@@ -12,13 +12,13 @@ Este projeto permite executar o Metabase, uma ferramenta de análise e visualiza
 1. Clone este repositório para o seu ambiente local:
 
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/bemn/metabase-mariadb.git)
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```
-cd nome-do-repositorio
+cd metabase-mariadb
 ```
 
 3. Edite o arquivo `docker-compose.yml` para configurar as variáveis de ambiente do banco de dados e outras configurações, se necessário:
