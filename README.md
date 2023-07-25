@@ -12,7 +12,7 @@ Este projeto permite executar o Metabase, uma ferramenta de análise e visualiza
 1. Clone este repositório para o seu ambiente local:
 
 ```
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/bemn/metabase-mariadb.git)
+git clone https://github.com/bemn/metabase-mariadb.git
 ```
 
 2. Navegue até o diretório do projeto:
